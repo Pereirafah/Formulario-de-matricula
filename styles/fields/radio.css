@@ -8,6 +8,7 @@ label+.radio-wrapper {
     gap: 1rem;
 }
 
+
 .radio-inner {
     border: 1px solid var(--stroke-default);
     border-radius: .5rem;
